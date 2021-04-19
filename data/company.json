@@ -1,0 +1,12 @@
+[ 
+    {
+        "name": "Thorin Oakenshield",
+        "description": "Thorin II, also called the Oakenshield, King under the Mountain or the Mountain King, was the sonofit back from Smaug and for leading an alliance of Men, Dwarves, and Elves in the Battle of the Five Armies." ,     
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/3/31/0481af78fe4b77a1b519fcf71c7cc333.jpg"
+    },
+       {
+        "name": "Fili",
+        "description": "Fíli and Kíli were nephews of Thorin, who was the elder brother of their mother Dís. They were  ",     
+        "image_source": "https://static.wikia.nocookie.net/lotr/images/f/fb/Lego_fili.png"
+    }
+]
